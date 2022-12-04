@@ -11,7 +11,7 @@
 <li>Place Order</li>
 
 <h1>Entity Relationship Diagram</h1>
-![image](https://github.com/thesharmaa/OnlineShoppingApplication/blob/main/er.png)
+<img src="https://github.com/thesharmaa/OnlineShoppingApplication/blob/main/er.png" width="1200" height="1100"/>
 
 
 
