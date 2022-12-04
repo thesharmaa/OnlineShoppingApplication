@@ -1,6 +1,6 @@
 <h1>REST API for Online Shopping Application System</h>
 
-<h4>An developement of RESTful API for an application. This API performs all the fundamental CRUD operations with user validation at every step.</h4>
+<h4>Development of RESTful API for an application. This API performs all the fundamental CRUD operations with user validation at every step.</h4>
 
 <h1>Features</h1>
 <p>Customer authentication & validation with session uuid can</p>
