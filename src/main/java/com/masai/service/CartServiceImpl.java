@@ -41,7 +41,7 @@ public class CartServiceImpl implements CartService{
 	@Override
 	public Cart addProductToCart(Integer productId, int quantity, String key)
 			throws CartException, LoginException, ProductException,CustomerException {
-		System.out.println("swapnil");
+		
 		CurrentUsersSession optCurUser = sDao.findByUuid(key);
 		if(optCurUser == null) {
 			throw new LoginException("please login first");
